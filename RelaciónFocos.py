@@ -11,7 +11,7 @@ F = np.array([7.5,8,10,11,25,25.4,35,50,75,100,125,150,200,250,300,400,500,750,1
 lamb = 775e-9
 
 #Focusing parameter
-chi=1
+chi=0.1
 
 #Largo del cristal
 L = 3.1e-3
